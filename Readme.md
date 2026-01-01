@@ -8,14 +8,14 @@ cpu felhasználás -- erőforrás igényes
 
 kimenet 
 
-train kép száma: 100
-teszt kép száma: 10
-[1/5] Veszteség: 2.3255
-[2/5] Veszteség: 2.2255
-[3/5] Veszteség: 2.1347
-[4/5] Veszteség: 1.9780
-[5/5] Veszteség: 1.8653
-Tanítás befejezve!
+train kép száma: 100 <br>
+teszt kép száma: 10 <br>
+[1/5] Veszteség: 2.3255 <br>
+[2/5] Veszteség: 2.2255 <br>
+[3/5] Veszteség: 2.1347 <br>
+[4/5] Veszteség: 1.9780 <br>
+[5/5] Veszteség: 1.8653 <br>
+Tanítás befejezve! <br>
 
 Modell pontossága: 60.00%
 
